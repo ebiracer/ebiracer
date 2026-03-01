@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🦐 EBIRACER (エビレーサー)
 
-<!--
-**ebiracer/ebiracer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+宇宙を爆走するエビの超高速アクションゲーム！
 
-Here are some ideas to get you started:
+## 🎮 あそびかた
+- **PC:** 矢印キーで移動 / Xキーでジャンプ
+- **スマホ:** 画面のボタンをタップ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖼️ カートリッジ
+![EBIRACER](./ebirecer.p8.png)
+
+---
+[ゲームをあそぶ！](https://(ebiracer).github.io/ebiracer/)
